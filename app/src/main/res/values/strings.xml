@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart_confirm">SEPETİ ONAYLA</string>
+    <string name="total_price">Toplam Fiyat</string>
+    <string name="add_cart">Sepete Ekle</string>
+    <string name="my_cart">Sepetim</string>
+    <string name="my_favorites">Favorilerim</string>
+    <string name="homepage">Anasayfa</string>
+</resources>
