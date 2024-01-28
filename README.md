@@ -11,7 +11,6 @@ This project is the final project of the [Udemy Android Bootcamp](https://www.ud
   - Viewmodel -> For manage and store UI-related data.
   - DataBinding -> For bind UI components in layout to data sources.
   - Room -> For manage a local database using the abstract layer.
-  - DataStore -> For storing user login data with key-value.
   - Hilt -> For dependency injection.
 - Retrofit -> Construct the API response and paging network data.
 - Glide -> Loading images from network.
