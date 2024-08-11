@@ -15,7 +15,7 @@ This project is the final project of the [Udemy Android Bootcamp](https://www.ud
 - Retrofit -> Construct the API response and paging network data.
 - Glide -> Loading images from network.
 
-<img src="https://github.com/user-attachments/assets/546be9f7-038f-4bd7-8a36-a2bed8ddf91d" width="400">  <img src="https://github.com/user-attachments/assets/55f73dd0-f147-4aba-bb5a-49bebd3f5671" width="400">
+<img src="https://github.com/user-attachments/assets/546be9f7-038f-4bd7-8a36-a2bed8ddf91d" width="400">  <img src="https://github.com/user-attachments/assets/55f73dd0-f147-4aba-bb5a-49bebd3f5671" width="400">  <img src="https://github.com/user-attachments/assets/d7a73600-1c47-4df6-8a5a-ab40f7fc29d4" width="400">
 
 
 ## Author
